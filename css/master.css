@@ -1,0 +1,32 @@
+html {
+  background: url(../images/background.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.content{
+  padding:30px;
+  color: black;
+  height:150px;
+  width:300px;
+
+}
+.profile_pic{
+  height:150;
+  width:150;
+  border-radius: 80%;
+
+}
+  <!--.rotateimg90 {
+    -webkit-transform:rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    -o-transform: rotate(90deg);
+    transform: rotate(90deg);
+  }--
+
+
+
+
+}
